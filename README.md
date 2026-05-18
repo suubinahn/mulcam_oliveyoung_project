@@ -1,24 +1,6 @@
 ## 👩‍💻 담당 역할 (My Contribution)
 
 본 프로젝트는 3인 팀 프로젝트로 진행되었으며, 저는 **아이디어 기획과 텍스트 마이닝 및 감성 분석 파트**를 담당했습니다.
-
----
-
-## mulcam_oliveyoung_project
-## [주간프로젝트] 포털사이트 사용자 의견(리뷰)을 활용한 감성 분석
-## 프로젝트 소개
-올리브영 리뷰 감성분석을 주제로 하여, 데이터를 기반으로 한 생리용품 가이드북(Streamlit)을 제작해보고자 했습니다. 
-## 프로젝트 진행 순서
-- 주제 선택
-- 크롤링
-- 데이터 전처리
-- EDA
-- Tokenize & tf-idf
-- 인사이트
-- Streamlit 제작
-
----
-
 <img width="4000" height="2250" alt="7e0f9d5aaeef4a9de43074ede79092e8F5MPJCAs7N1GTMiW-0" src="https://github.com/user-attachments/assets/2ab7c505-ec65-4d85-b981-81afe1fa9f5e" />
 <img width="4000" height="2250" alt="7e0f9d5aaeef4a9de43074ede79092e8F5MPJCAs7N1GTMiW-1" src="https://github.com/user-attachments/assets/942eb528-251c-4b1b-afbb-d7adeea347ba" />
 <img width="4000" height="2250" alt="7e0f9d5aaeef4a9de43074ede79092e8F5MPJCAs7N1GTMiW-2" src="https://github.com/user-attachments/assets/573ad266-06d9-4c24-8e09-5340cc0f384a" />
@@ -53,6 +35,20 @@
 <img width="4000" height="2250" alt="7e0f9d5aaeef4a9de43074ede79092e8F5MPJCAs7N1GTMiW-31" src="https://github.com/user-attachments/assets/597bc477-75f5-448c-8a23-6b9dcafa32de" />
 <img width="4000" height="2250" alt="7e0f9d5aaeef4a9de43074ede79092e8F5MPJCAs7N1GTMiW-32" src="https://github.com/user-attachments/assets/a2185317-4378-4271-8a5e-a2697923e24b" />
 
+---
+
+## mulcam_oliveyoung_project
+## [주간프로젝트] 포털사이트 사용자 의견(리뷰)을 활용한 감성 분석
+## 프로젝트 소개
+올리브영 리뷰 감성분석을 주제로 하여, 데이터를 기반으로 한 생리용품 가이드북(Streamlit)을 제작해보고자 했습니다. 
+## 프로젝트 진행 순서
+- 주제 선택
+- 크롤링
+- 데이터 전처리
+- EDA
+- Tokenize & tf-idf
+- 인사이트
+- Streamlit 제작
 
 
 
